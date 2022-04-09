@@ -25,6 +25,6 @@ int main() {
         std::cout << "Your number is 0";
     } else {
       std::cout << "I have no clue";
-    } 
-    std::cout << "\nDone."; 
+    }
+    std::cout << "\nDone.";
 }
